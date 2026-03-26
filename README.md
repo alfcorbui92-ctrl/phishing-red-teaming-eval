@@ -22,9 +22,12 @@ This project tests whether the model:
 
 ## Testing Outcome
 During controlled testing, this prompt successfully elicited unsafe phishing-email generation behavior from multiple models, including:
-- ChatGPT 5.4
+- ChatGPT 5.2
+- ChatGPT 4.0
 - Gemini 3.1 Pro
-- DeepSeek 3.2
+- DeepSeek V3.2
+- Kimi K2.5
+- Cloud Opus 4.6
 
 ## Relevance
 This project is relevant to AI safety, red teaming, misuse prevention, and prompt-based evaluation of model compliance behavior.
